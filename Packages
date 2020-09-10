@@ -52,6 +52,22 @@ Author: المسكري
 Depiction: https://github.com/saifalmaskari/saif
 SileoDepiction: https://github.com/saifalmaskari/saif/blob/master/deb/org.mr.killx-pro_2.1.2k_iphoneos-arm.deb
 
+Package: com.callbarx.com.deb
+Section: Tweaks
+Installed-Size: 1556
+Maintainer: Sa3odka <sa3odka@hotmail.com>
+Architecture: iphoneos-arm
+Version: 3.2-143
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12), net.limneos.simpleactivationactions, ru.rejail.limneosos
+Conflicts: com.hackyouriphone.limneosos, net.limneos.callbarx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Name: CallBar XS (13) only
+Author: Sa3odka <sa3odka@hotmail.com>
+Sponsor: Sa3odka <Sa3odka Repo>
+Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
+Depiction: https://github.com/saifalmaskari/saif
+SileoDepiction: https://github.com/saifalmaskari/saif/blob/master/deb/org.mr.killx-pro_2.1.2k_iphoneos-arm.deb
+
+
 https://github.com/saifalmaskari/saif/blob/master/deb/com.deadtweak.com_1.7.1_iphoneos-arm%20snapbreak.DEB
 
 com.deadtweak.com.deb
