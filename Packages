@@ -29,14 +29,12 @@ Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.old
 Package: com.deadtweak.com
 Version: 1.7.1
 Section: Tweaks
-Maintainer: saif <reposithree@gmail.com>
+Maintainer: saif <xsawafx@gmail.com>
 Depends: firmware (<7.0)
 Architecture: iphoneos-arm
 Filename: .debs/com.deadtweak.com_1.7.1_iphoneos-arm snapbreak.DEB
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
+Description: Almaskari
 Name: dead tweak
-Author: saif <reposithree@gmail.com>
+Author: saif <xsawafx@gmail.com>
 Depiction: https://github.com/saifalmaskari/saif=com.deadtweak.com
 
