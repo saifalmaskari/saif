@@ -32,9 +32,14 @@ Section: Tweaks
 Maintainer: saif <xsawafx@gmail.com>
 Depends: firmware (13.5)
 Architecture: iphoneos-arm
-Filename: .debs/com.deadtweak.com_1.7.1_iphoneos-arm snapbreak.DEB
+Filename: .debs/com.deadtweak.com_1.7.1_iphoneos-armsnapbreak.DEB
 Description: Almaskari
-Name: com.deadtweak.com
+Name: سناب بريك
 Author: saif <xsawafx@gmail.com>
-Depiction: https://github.com/saifalmaskari/saif=com.deadtweak.com
+Depiction: https://github.com/saifalmaskari/saif/blob/master/deb/com.deadtweak.com_1.7.1_iphoneos-arm%20snapbreak.DEB
 
+https://github.com/saifalmaskari/saif/blob/master/deb/com.deadtweak.com_1.7.1_iphoneos-arm%20snapbreak.DEB
+
+
+
+https://github.com/saifalmaskari/saif=com.deadtweak.com
