@@ -76,6 +76,9 @@ Conflicts: com.spark.batterypercentx, com.neinzedd9.percentagebatteryx, com.dpkg
 SileoDepiction: https://myclassic.net/sileo.php?pid=25
 Name: DigitalBattery13
 Author: Asterix <asterix_gaul@outlook.com>
+Depiction: https://github.com/saifalmaskari/saif
+SileoDepiction: https://github.com/saifalmaskari/saif/blob/master/deb/net.myclassic.digitalbattery13_1.0.0_iphoneos-arm.deb
+
 Sponsor: thebigboss.org <http://thebigboss.org>
 Icon: file:///Library/PreferenceBundles/DigitalBattery13.bundle/icon@2x.png
 Tag: purpose::extension, compatible::ios13
