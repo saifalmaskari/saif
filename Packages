@@ -26,3 +26,9 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.deadtweak.com
+Name: DeadTweak
+Version: 1.7.1
+Description: No more description.
+Section: Tweaks
+Depends: firmware (>= 10.0)
