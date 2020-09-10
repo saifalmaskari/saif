@@ -36,7 +36,7 @@ Filename: .debs/com.deadtweak.com.deb
 Description: Almaskari
 Name: سناب بريك
 Author: saif <xsawafx@gmail.com>
-Depiction: deb/com.deadtweak.com_1.7.1_iphoneos-arm snapbreak.DEB
+Depiction: https://github.com/saifalmaskari/saif/blob/master/deb/com.deadtweak.com.deb
 
 Package: org.mr.killx-pro
 Section: System
