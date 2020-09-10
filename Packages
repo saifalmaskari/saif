@@ -39,20 +39,18 @@ Author: saif <xsawafx@gmail.com>
 Depiction: https://github.com/saifalmaskari/saif/blob/master/deb/com.deadtweak.com_1.7.1_iphoneos-arm%20snapbreak.DEB
 
 Package: org.mr.killx-pro
-Section: Tweaks
+Section: System
 Installed-Size: 848
-Maintainer: MainRepo
+Maintainer: المسكري
 Architecture: iphoneos-arm
 Version: 2.1.2k
 Depends: mobilesubstrate, preferenceloader, applist, firmware (>= 11.0)
 Conflicts: com.cemck.killx
 Description: One swipe to kill them all!
 Name: KillX Pro
-Author: cemck
-Depiction: https://mainrepo.org/index.php?pid=250
-SileoDepiction: https://mainrepo.org/sileo.php?pid=250
-Icon: https://repo.packix.com/api/Packages/5d697981a0f3bf00137cb24d/icon/download?size=medium
-
+Author: المسكري
+Depiction: https://github.com/saifalmaskari/saif
+SileoDepiction: https://github.com/saifalmaskari/saif/blob/master/deb/org.mr.killx-pro_2.1.2k_iphoneos-arm.deb
 
 https://github.com/saifalmaskari/saif/blob/master/deb/com.deadtweak.com_1.7.1_iphoneos-arm%20snapbreak.DEB
 
