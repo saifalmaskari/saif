@@ -65,3 +65,18 @@ Author: Sa3odka <sa3odka@hotmail.com>
 Sponsor: Sa3odka <Sa3odka Repo>
 Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
 
+Package: net.myclassic.digitalbattery13
+Section: Tweaks
+Installed-Size: 508
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Architecture: iphoneos-arm
+Version: 1.0.0
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.creaturesurvive.libcscolorpicker
+Conflicts: com.spark.batterypercentx, com.neinzedd9.percentagebatteryx, com.dpkg.batterypercent12, com.dpkg.arkrome, ca.ndoizo.perxent, com.asterix.modernbatteryx, com.laughingquoll.cowbell, com.peterdev.half, com.asterix.digitalnotchedbattery
+SileoDepiction: https://myclassic.net/sileo.php?pid=25
+Name: DigitalBattery13
+Author: Asterix <asterix_gaul@outlook.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Icon: file:///Library/PreferenceBundles/DigitalBattery13.bundle/icon@2x.png
+Tag: purpose::extension, compatible::ios13
+
