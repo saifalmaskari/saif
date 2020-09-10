@@ -64,12 +64,6 @@ Name: CallBar XS (13) only
 Author: Sa3odka <sa3odka@hotmail.com>
 Sponsor: Sa3odka <Sa3odka Repo>
 Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
-Depiction: https://github.com/saifalmaskari/saif
-SileoDepiction: https://github.com/saifalmaskari/saif/blob/master/deb/org.mr.killx-pro_2.1.2k_iphoneos-arm.deb
+Depiction: https://github.com/saifalmaskari/saif/blob/master/deb/com.callbarx.com.deb
+SileoDepiction: https://github.com/saifalmaskari/saif/blob/master/deb/com.callbarx.com.deb
 
-
-https://github.com/saifalmaskari/saif/blob/master/deb/com.deadtweak.com_1.7.1_iphoneos-arm%20snapbreak.DEB
-
-com.deadtweak.com.deb
-
-https://github.com/saifalmaskari/saif=com.deadtweak.com
