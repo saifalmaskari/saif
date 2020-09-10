@@ -34,7 +34,7 @@ Depends: firmware (13.5)
 Architecture: iphoneos-arm
 Filename: .debs/com.deadtweak.com_1.7.1_iphoneos-arm snapbreak.DEB
 Description: Almaskari
-Name: snapbreak 
+Name: com.deadtweak.com
 Author: saif <xsawafx@gmail.com>
 Depiction: https://github.com/saifalmaskari/saif=com.deadtweak.com
 
